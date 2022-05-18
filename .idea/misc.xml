@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/drawable-v24/action_item_text_color.xml" value="0.141" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/drawable-v24/border.xml" value="0.141" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/drawable/cornor_button.xml" value="0.129" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/font/average_sans.xml" value="0.38666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/activity_main2.xml" value="0.2942583732057416" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/activity_team.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/bottom_navigation_item.xml" value="0.34427083333333336" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/grid_layou.xml" value="0.3351851851851852" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/layout_detail_player.xml" value="0.337037037037037" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/layout_gif.xml" value="0.3729166666666667" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/player_view.xml" value="0.337037037037037" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/sore_view.xml" value="0.337037037037037" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view.xml" value="0.337037037037037" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_arsenal.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_astonvila.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_brentford.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_briton.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_burnley.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_crystalpalace.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_everton.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_leeds.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_leicester.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_man_u.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_newcastleunited.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_norwichcity.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_southampton.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_watford.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_westhamunited.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_view_wolverhamptonwanderers.xml" value="0.3425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/layout/team_villapark_astonvila.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/menu/bottom_navigation_item.xml" value="0.35833333333333334" />
+        <entry key="..\:/AndroidStudioProjects/Project Code/PremierLeague/app/src/main/res/menu/button_menu.xml" value="0.35833333333333334" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor.xml" value="0.2155" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor_button.xml" value="0.2155" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor_inder.xml" value="0.2155" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor_nav_pl.xml" value="0.2155" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor_player.xml" value="0.1265" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/cornor_top.xml" value="0.2155" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/layou_input.xml" value="0.2555" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/drawable/m2.xml" value="0.1465" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/activity_main2.xml" value="0.22870370370370371" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/activity_team.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/fragment_play_.xml" value="0.12314814814814815" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/fragment_team_.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/grid_layou.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/layout_detail_player.xml" value="0.264" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/player_view.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/sore_view.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/layout/team_view.xml" value="0.2351851851851852" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague/app/src/main/res/menu/button_menu.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/action_item_text_color.xml" value="0.123" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/border.xml" value="0.123" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_1.xml" value="0.161" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_2.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_button.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_nav_pl.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_player.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/cornor_top.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/ic_futbol_solid.xml" value="0.176" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.176" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.176" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/font/average_sans.xml" value="0.1925925925925926" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/font/itim.xml" value="0.1925925925925926" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_game.xml" value="0.3333333333333333" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_main.xml" value="0.30092592592592593" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_main3.xml" value="0.3101851851851852" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_team.xml" value="0.2222222222222222" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/activity_test_arraylist.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/detail_game.xml" value="0.19444444444444445" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/game_correct.xml" value="0.19444444444444445" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/game_incorrect.xml" value="0.19444444444444445" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/layout_detail_player.xml" value="0.21574074074074073" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/layout_gif.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/player_view.xml" value="0.30092592592592593" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/sore_view.xml" value="0.3282051282051282" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_mancity.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_watford.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_westham.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_westham_united.xml" value="0.3158974358974359" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_westhamunited.xml" value="0.3282051282051282" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/team_view_wolverhamptonwanderers.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/layout/test_top.xml" value="0.16" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/menu/bottom_navigation_item.xml" value="0.18425925925925926" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/menu/button_menu.xml" value="0.18" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/SaveAndroid/AndroidStudioProjects/PremierLeague1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

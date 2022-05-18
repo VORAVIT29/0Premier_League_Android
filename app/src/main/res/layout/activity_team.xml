@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F0F0"
+    android:orientation="vertical"
+    tools:context=".Activity_team">
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="0dp"
+        android:layout_height="231dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifimgpng"
+            android:layout_width="match_parent"
+            android:layout_height="231dp"
+            android:scaleType="centerCrop"/>
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="412dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="212dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingClass">
+
+        <!--        android:background="#3F1052"-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/navigation"
+                style="@style/Widget.MaterialComponents.BottomAppBar.Colored"
+                android:layout_width="400sp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/cornor_button"
+                app:backgroundTint="#FFFFFF"
+                app:labelVisibilityMode="selected"
+                app:menu="@menu/button_menu">
+
+            </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+            <LinearLayout
+                android:layout_width="400sp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/cornor_nav_pl"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="35sp"
+                    android:layout_height="40sp"
+                    android:layout_margin="15dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/premier_leagueblack" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="257dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/average_sans"
+                    android:text="พรีเมียร์ลีก"
+                    android:textAllCaps="false"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp"
+                    android:typeface="normal" />
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/listview"
+                android:layout_width="400sp"
+                android:layout_height="408dp"
+                android:layout_gravity="center"
+                android:background="@drawable/cornor_top"
+                android:visibility="visible">
+
+            </ListView>
+
+        </LinearLayout>
+
+        <!--        <fragment-->
+        <!--            android:id="@+id/bg_fm"-->
+        <!--            android:name="com.example.premierleague.Team_Fragment"-->
+        <!--            android:layout_width="360sp"-->
+        <!--            android:layout_height="match_parent"-->
+        <!--            android:layout_marginLeft="30dp"-->
+        <!--            android:layout_marginTop="60dp"-->
+        <!--            android:visibility="gone" />-->
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
